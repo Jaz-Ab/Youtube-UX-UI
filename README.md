@@ -12,6 +12,8 @@ Acontinuación se describirá que parte conforma el rol del UX y de UI.
   que el usuario pueda ver la duración del video, la categoria del video, número de vistas
   y hace cuanto se subió el video a la página.
 * Que el usuario pueda pre-visualizar parte del video para ver de qué se trata antes de hacerle click.
+* Opción de `Reproduccion automática`.
+* Recomendacion de `mix de videos` que le puedan interesar al usuario.
 * Las opciones que contienen los menús y el orden en que van puestos.
 * Que el menú se despliegue y se oculte para que no ocupe un espacio permanente mientras se está navegamdo.
 
